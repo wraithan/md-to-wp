@@ -1,0 +1,8 @@
+[package]
+name = "post"
+version = "0.1.0"
+authors = ["Wraithan (Chris McDonald) <xwraithanx@gmail.com>"]
+
+[dependencies]
+comrak = "0.1.4"
+typed-arena = "1.3.0"
